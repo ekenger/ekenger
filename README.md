@@ -1,56 +1,65 @@
-<h2 align="left">Hi there, I'm Emre Kenger 👋</h2>
+## Hi there, I'm Emre Kenger 👋  
+  
 
-###
+I'm Emre, a Computer Engineering student at Kahramanmaraş Sütçü İmam University. I’m currently learning Java and Kotlin, and I’m passionate about mobile app development. Here on my GitHub profile, you'll find my projects, learning journey, and applications I've developed.  
+  
 
-<p align="left">I'm Emre, a Computer Engineering student at Kahramanmaraş Sütçü İmam University. I’m currently learning Java and Kotlin, and I’m passionate about mobile app development. Here on my GitHub profile, you'll find my projects, learning journey, and applications I've developed.</p>
+<br/>  
 
-###
+<table><tr><td valign="top" width="50%">
 
-<h3 align="left">Talking about Personal Stuffs</h3>
+### Talking about Personal Stuffs  
+  
 
-###
+- 🌱 I am currently learning Java and Kotlin.  
+  
 
-<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+- 👯 I’m looking to collaborate with other content creators.  
+  
 
-###
+- 🥅 Goals: To become a mobile developer.  
+  
 
-<p align="left">🌱 I am currently learning Java and Kotlin.</p>
-
-###
-
-<p align="left">🥅 Goals: To become a mobile developer.</p>
-
-###
-
-<p align="left">⚡ I like to explore new technologies.</p>
-
-###
-
-<h3 align="left">Languages</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-</div>
-
-###
-
-<h3 align="left">:octocat: Github Statistics</h3>
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekenger&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="400" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ekenger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="400" alt="languages graph" />
-</div>
+- ⚡ I like to explore new technologies.  
 
 
-###
+</td><td valign="top" width="50%">
 
-<h3 align="left">Connect with Me</h3>
+<div align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+<h3 align="left">Languages and Tools</h3> 
+<div align="center">  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+</div>  
+
+<br/>  
+
+
+<h3 align="left">:octocat: Github Stats</h3> 
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ekenger&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekenger&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+<h3 align="left">Connect with me</h3>
 
 ###
 
@@ -66,4 +75,12 @@
   </a>
 </div>
 
-###
+###  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+
+<br />
+
+----
