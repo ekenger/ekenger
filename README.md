@@ -1,7 +1,7 @@
 ## Hi there, I'm Emre Kenger 👋  
   
 
-I'm Emre, a Computer Engineering student at Kahramanmaraş Sütçü İmam University. I’m currently learning Java and Kotlin, and I’m passionate about mobile app development. Here on my GitHub profile, you'll find my projects, learning journey, and applications I've developed.  
+I'm Emre, a Computer Engineering student at Kahramanmaraş Sütçü İmam University. I’m currently learning Flutter, and I’m passionate about mobile app development. Here on my GitHub profile, you'll find my projects, learning journey, and applications I've developed.  
   
 
 <br/>  
@@ -11,7 +11,7 @@ I'm Emre, a Computer Engineering student at Kahramanmaraş Sütçü İmam Univer
 ### Talking about Personal Stuffs  
   
 
-- 🌱 I am currently learning Java and Kotlin.  
+- 🌱 I am currently learning Flutter.  
   
 
 - 👯 I’m looking to collaborate with other content creators.  
@@ -37,9 +37,9 @@ I'm Emre, a Computer Engineering student at Kahramanmaraş Sütçü İmam Univer
 
 <h3 align="left">🧰Languages and Tools</h3> 
 <div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>  
 
 <br/>  
@@ -64,11 +64,8 @@ I'm Emre, a Computer Engineering student at Kahramanmaraş Sütçü İmam Univer
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/emrekenger" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://twitter.com/your-twitter-profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
   <a href="mailto:emrekngr@icloud.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
